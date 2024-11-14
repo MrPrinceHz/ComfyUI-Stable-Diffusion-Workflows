@@ -4,7 +4,7 @@ ComfyUI is a powerful, modular user interface and workflow tool for Stable-Diffu
 # comfy-workflows
 Comfy UI Workflows with Prompt and Generated Images
 
-For playground and demo you can head to [ComfyUI at BharatAI](https://getsalt.ai/)
+For playground and demo you can head to [ComfyUI at Salt AI](https://getsalt.ai/)
 
 ## Generated Images
 ### Prompt
